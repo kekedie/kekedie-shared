@@ -1,6 +1,6 @@
 name := """kekedie-shared"""
 
-organization := "com.github.kekedi"
+organization := "com.github.kekedie"
 
 version := "1.0"
 
