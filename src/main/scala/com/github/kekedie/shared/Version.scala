@@ -2,6 +2,6 @@ package com.github.kekedie.shared
 
 object Version {
 
-  val version = "kekedie-shared_1.7-SNAPSHOT"
+  val version = "kekedie-shared_1.8-SNAPSHOT"
 
 }
